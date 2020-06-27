@@ -11,8 +11,8 @@ através do seu aplicativo, também pode filtrar por tipos de itens que coleta, 
 eletrônicos, lampadas, oléo, matérial orgânico e papéis-papelão.</p>
 
 ### Tecnologias
-**Vamos as tecnologias em forme de objeto rs**
-<p>{
+**Vamos as tecnologias**
+<p>
   ExpressJs,<br/>
   NodeJS,<br/>
   SQLITE,<br/>
@@ -20,7 +20,7 @@ eletrônicos, lampadas, oléo, matérial orgânico e papéis-papelão.</p>
   REACT,<br/>
   REACT NATIVE,<br/>
   EXPO<br/>
-}</p>
+</p>
 
 ### Rodando o backend no seu computador
 Primeiro entre em uma pasta de sua preferência pelo prompt de comando(cmd), ou Terminal(linux)<br/>
