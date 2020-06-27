@@ -13,7 +13,7 @@ eletrônicos, lampadas, oléo, matérial orgânico e papéis-papelão.</p>
 ### Tecnologias
 **Vamos as tecnologias em forme de objeto rs**
 <p>{
-  _ExpressJs,<br/>
+  ExpressJs,<br/>
   NodeJS,<br/>
   SQLITE,<br/>
   TYPESCRIPT,<br/>
